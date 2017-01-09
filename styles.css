@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+
+/* body{ */
+	/* margin-left: 100px; */
+	/* margin-right: 100px; */
+	/* padding-left: 50px; */
+	/* padding-right: 50px; */
+	/* font-family: 'Roboto Slab', serif; */
+/* } */
+
+input[type=text]{
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border: 2px solid #7ac9b7;
+	border-radius: 10px;
+	width: 100%;
+	
+}
+textarea[name=message]{
+	width:100%;
+	padding: 15px;
+	margin-top: 10px;
+    border:1px solid #7ac9b7;
+	border-radius:5px; 
+	margin-bottom: 20px;
+	resize:none;
+	
+	
+	
+	
+	
+	
+	
+}
